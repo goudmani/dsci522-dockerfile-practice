@@ -1,0 +1,7 @@
+name: dockerlock
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11,<3.13  
+  - otter-grader=6.* 
+  - requests>=2.24.0
